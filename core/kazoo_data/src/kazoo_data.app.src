@@ -9,7 +9,7 @@
                  , crypto
                  , kazoo_amqp
                  , kazoo_config
-                 , kazoo_workers
+                 
                  , lager
                  , public_key
                  , stdlib
